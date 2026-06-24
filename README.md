@@ -1,6 +1,6 @@
-# EncubatorrApp
+# Encubatorr
 ## Overview
-EncubatorrApp is an AI-powered business builder incubator platform designed to enable users to build, manage and launch a new business, step-by-step from idea to launch.
+Encubatorr is an AI-powered business builder incubator platform designed to enable users to build, manage and launch a new business, step-by-step from idea to launch.
 ## Tech Stack
 - Frontend: React / Next.js
 - Backend: Node.js / Express
